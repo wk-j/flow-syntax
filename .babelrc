@@ -1,0 +1,10 @@
+{
+    "presets": [
+        "env",
+        "flow",
+        "es2015"
+    ],
+    "plugins": [
+        "transform-class-properties"
+    ]
+}
